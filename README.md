@@ -49,7 +49,7 @@
 ### 🌐 Connect with Me  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Hrishabh%20Gupta-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/hrishabh1103/)  
 [![GitHub](https://img.shields.io/badge/GitHub-hrishabh1103-black?style=flat&logo=github)](https://github.com/hrishabh1103)  
-📧 **Email:** 9752849496hrishabh@gmail.com  
+📧 **Email:** hrishabh110304@gmail.com  
 
 ---
 
