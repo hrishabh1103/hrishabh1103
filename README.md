@@ -1,5 +1,5 @@
 <!-- Profile Banner -->
-![Banner](https://i.ibb.co/NnnwZzk/tech-banner.jpg)
+![Banner](https://media.licdn.com/dms/image/v2/D4D16AQFuQr6v0hEMnA/profile-displaybackgroundimage-shrink_350_1400/B4DZdKa5W9HkAY-/0/1749300255229?e=1757548800&v=beta&t=WLefkV2e7ZwocNk0Zp_bWlu0HzAtpjGOCHT9cBDhmAg)
 
 <h1 align="center">Hi there 👋, I'm Hrishabh Gupta</h1>
 <h3 align="center">🚀 Aspiring Software Engineer | DSA | AI/ML | Web Development</h3>
@@ -20,7 +20,6 @@
 ### 🛠 Tech Stack
 
 **Languages:**  
-![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=c%2b%2b&logoColor=white)
 ![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=java)
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
