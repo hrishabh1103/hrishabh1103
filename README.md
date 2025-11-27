@@ -1,56 +1,93 @@
-<!-- Profile Banner -->
-![Banner](https://media.licdn.com/dms/image/v2/D4D16AQFuQr6v0hEMnA/profile-displaybackgroundimage-shrink_350_1400/B4DZdKa5W9HkAY-/0/1749300255229?e=1757548800&v=beta&t=WLefkV2e7ZwocNk0Zp_bWlu0HzAtpjGOCHT9cBDhmAg)
+<div align="center">
 
-<h1 align="center">Hi there 👋, I'm Hrishabh Gupta</h1>
-<h3 align="center">🚀 Aspiring Software Engineer | DSA | AI/ML | Web Development</h3>
+<h1>✨ Hrishabh Gupta 🌱</h1>
+<h3>Software Engineer | Full Stack Developer | Sustainability Tech Enthusiast</h3>
 
----
+<img src="https://user-images.githubusercontent.com/74038190/212743235-c1e23de3-48a0-4fd4-b26a-51c12edb134e.gif" width="400"/>
 
-### 💡 About Me
-- 🎓 Final-year student at **School of Information Technology, RGPV, Bhopal**  
-- 💻 Passionate about **Problem Solving, AI/ML, Web Development, and System Design**  
-- 🚀 Currently working on:  
-  - 🏍 **Bike Spare Parts Store (Java Spring Boot)**  
-  - 🤖 **Virtual Personal Assistant with NLP & Wake Word Detection**  
-- 📚 Preparing for **placements** with focus on **DSA & Core Subjects**  
-- 🌱 Learning **DevOps** and **Advanced AI Integrations**
+🌍 Turning Ideas into Impact • 🌾 Making Tech Useful for Farmers • 🤖 Exploring AI
 
 ---
 
-### 🛠 Tech Stack
+## 🚀 Who Am I?
 
-**Languages:**  
-![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=java)
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+I'm **Hrishabh Gupta**, a Computer Science undergraduate from the  
+School of Information Technology, University of Technology, Bhopal.  
 
-**Frameworks & Libraries:**  
-![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-6DB33F?style=flat&logo=springboot&logoColor=white)
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white)
-![Flask](https://img.shields.io/badge/-Flask-000000?style=flat&logo=flask)
+I'm passionate about **full stack development, AI projects, and sustainability tech**.  
+I love working on real-world problems like **stubble burning reduction, agri-tech innovation, and green technology**.
 
-**Databases & Tools:**  
-![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb)
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
-![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white)
+Currently building:
+- 🌱 **Kisan Mitra App** – stopping stubble burning
+- 🛒 **SavingsKaro** – smart credit card savings platform  
+- 🤖 **Genius AI Summarizer**
+- 🏍️ **Bike Spare Parts Store App**
+- 👁️ **Face Detection & Tracking System**
 
 ---
 
-### 📈 GitHub Stats
+## 🛠️ Tech Stack (3D Style)
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=hrishabh1103&show_icons=true&theme=radical" alt="Hrishabh's GitHub Stats" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hrishabh1103&layout=compact&theme=radical" alt="Top Languages" height="165"/>
+
+<img src="https://skillicons.dev/icons?i=java,cpp,python,js,react,next,spring,html,css,tailwind,node,mysql,postgres,git,github,linux&perline=8" />
+
 </p>
 
 ---
 
-### 🌐 Connect with Me  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Hrishabh%20Gupta-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/hrishabh1103/)  
-[![GitHub](https://img.shields.io/badge/GitHub-hrishabh1103-black?style=flat&logo=github)](https://github.com/hrishabh1103)  
-📧 **Email:** hrishabh110304@gmail.com  
+## 📊 My GitHub Stats (3D Effects)
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=hrishabh1103&show_icons=true&theme=tokyonight" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=hrishabh1103&theme=tokyonight" />
+</p>
 
 ---
 
-💬 *"Code is like humor. When you have to explain it, it’s bad."*
+## 🌍 Flagship Projects
+
+| Project | Description | Tech |
+|---------|------------|------|
+| 🌱 Kisan Mitra | Eliminating stubble burning & converting residue to eco cutlery | Next.js, Prisma |
+| 💳 SavingsKaro | Smart card offers & savings platform | Web Tech |
+| 🤖 Genius AI | AI-powered summarizer extension | JS, NLP APIs |
+| 🏍️ Bike Store | Spare parts ordering system | Spring Boot |
+| 👁️ Face Detection | CCTV-based detection system | Python, OpenCV |
+
+---
+
+## 🎯 Goals
+
+✅ Become a great Software Engineer  
+✅ Build impactful startups  
+✅ Master DSA & DevOps  
+✅ Crack top tech roles in India  
+✅ Build clean, scalable systems
+
+---
+
+## 📫 Connect With Me
+
+<p align="center">
+<a href="https://www.linkedin.com/in/hrishabh1103/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"></a>
+<a href="mailto:hrishabhgupta@zohomail.in"><img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail"></a>
+<a href="https://github.com/hrishabh1103"><img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github"></a>
+</p>
+
+---
+
+## ⚡ Fun Facts
+
+- I love building with purpose, not just code
+- Startup + Tech = My comfort zone
+- I’m obsessed with performance and clean UI
+- Learning new things every day
+
+---
+
+<div align="center">
+
+⭐ If you like my profile, consider following me — let’s grow together!
+
+</div>
