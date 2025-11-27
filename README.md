@@ -5,7 +5,7 @@
 
 <img src="https://user-images.githubusercontent.com/74038190/212743235-c1e23de3-48a0-4fd4-b26a-51c12edb134e.gif" width="400"/>
 
-🌍 Turning Ideas into Impact • 🌾 Making Tech Useful for Farmers • 🤖 Exploring AI
+🌍 Turning Ideas into Impact • 🌾 Making Tech Useful for Humans • 🤖 Exploring AI
 
 ---
 
