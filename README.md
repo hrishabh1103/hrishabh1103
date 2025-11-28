@@ -19,7 +19,7 @@ I love working on real-world problems like **stubble burning reduction, agri-tec
 
 Currently building:
 - 🌱 **Kisan Mitra App** – stopping stubble burning
-- 🛒 **SavingsKaro** – smart credit card savings platform  
+- 🛒 **SavingsKaro** – smart credit card & savings platform  
 - 🤖 **Genius AI Summarizer**
 - 🏍️ **Bike Spare Parts Store App**
 - 👁️ **Face Detection & Tracking System**
