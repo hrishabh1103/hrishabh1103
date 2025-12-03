@@ -86,7 +86,7 @@ I enjoy solving real-world challenges like **stubble burning reduction, agri-tec
 
 ---
 
-## 📫 Connect With Me
+## 📫 Connect With Me 
 
 <p align="center">
 <a href="https://www.linkedin.com/in/hrishabh1103/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"></a>
