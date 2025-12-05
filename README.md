@@ -109,7 +109,7 @@ I enjoy solving real-world challenges like **stubble burning reduction, agri-tec
 - I build with impact, not just code
 - Startup life motivates me
 - UI/UX perfectionist
-- Learning something new daily
+- Learning something new daily 
 
 ---
 
