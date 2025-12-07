@@ -1,6 +1,6 @@
 <div align="center">
 
-<h1>✨ Hrishabh Gupta 🌱</h1>
+<h1>✨ Hrishabh Gupta ✨</h1>
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=22&duration=2500&pause=800&color=36BCF7&center=true&vCenter=true&width=600&lines=Software+Engineer;Full+Stack+Developer;AI+Enthusiast;Sustainability+Tech+Builder" />
 
