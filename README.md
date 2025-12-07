@@ -119,5 +119,6 @@ I enjoy solving real-world challenges like **stubble burning reduction, agri-tec
 ⭐ If you like my profile, consider following — let’s grow together!
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer"/>
+// just uploading
 
 </div>
