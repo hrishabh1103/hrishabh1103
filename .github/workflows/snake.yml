@@ -5,19 +5,26 @@ on:
     - cron: "0 */12 * * *"
   workflow_dispatch:
 
+permissions:
+  contents: write
+
 jobs:
   snake:
     runs-on: ubuntu-latest
-    steps:
 
-      - name: Generate github-contribution-grid-snake.svg
+    steps:
+      - name: Checkout the repo
+        uses: actions/checkout@v3
+
+      - name: Generate the snake SVG
         uses: Platane/snk@v3
         with:
           github_user_name: hrishabh1103
           outputs: |
             dist/github-contribution-grid-snake.svg
 
-      - name: Push snake to GitHub
+      - name: Commit & Push the file
         uses: EndBug/add-and-commit@v9
         with:
-          message: "Generate snake animation"
+          message: "Update snake animation"
+          add: "dist/*.svg"
