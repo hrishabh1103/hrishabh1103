@@ -50,8 +50,9 @@ I'm **Hrishabh Gupta**, a Computer Science undergraduate from
 ## 📊 GitHub Stats
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=hrishabh1103&show_icons=true&theme=tokyonight&cache_seconds=86400" height="180"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=hrishabh1103&theme=tokyonight&cache_seconds=86400" height="180"/>
+<img src="https://github-readme-stats.vercel.app/api?username=hrishabh1103&show_icons=true&theme=radical&count_private=true&hide_border=true" height="170"/>
+<br><br>
+<img src="https://streak-stats.demolab.com?user=hrishabh1103&theme=radical&hide_border=true" height="170"/>
 </p>
 
 <p align="center">
