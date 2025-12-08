@@ -47,7 +47,7 @@ I'm **Hrishabh Gupta**, a Computer Science undergraduate from
 
 ---
 
-## 📊 GitHub Stats (Cache-Safe)
+## 📊 GitHub Stats
 
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=hrishabh1103&show_icons=true&theme=tokyonight&cache_seconds=86400" height="180"/>
@@ -106,7 +106,7 @@ I'm **Hrishabh Gupta**, a Computer Science undergraduate from
 
 ---
 
-## 🐍 Contribution Snake Animation
+## 🐍 Contribution Animation
 
 <p align="center">
 <img src="https://raw.githubusercontent.com/hrishabh1103/hrishabh1103/main/dist/github-contribution-grid-snake.svg"/>
