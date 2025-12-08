@@ -63,7 +63,7 @@ I'm **Hrishabh Gupta**, a Computer Science undergraduate from
 ## 🏆 Achievements
 
 <p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=hrishabh1103&theme=onedark&no-frame=true&row=1&margin-w=15" />
+<img src="https://github-profile-trophy.vercel.app/?username=hrishabh1103&theme=darkhub&no-frame=true&column=6" />
 </p>
 
 ---
