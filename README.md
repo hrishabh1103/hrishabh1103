@@ -55,12 +55,11 @@ I'm **Hrishabh Gupta**, a Computer Science undergraduate from
 <img src="https://github-readme-stats.vercel.app/api?username=hrishabh1103&show_icons=true&theme=tokyonight&cache_bust=20251212T1548" height="180" alt="github stats"/>
 
 <!-- Streaks: prefer the demolab proxy; if that fails, uncomment the shields fallback below -->
-<img src="https://streak-stats.demolab.com/?user=hrishabh1103&theme=tokyonight" height="180" alt="github streaks"/>
+<img src="https://streak-stats.demolab.com/?user=hrishabh1103&theme=tokyonight&cache_bust=20251212T1548" height="180" alt="github streaks"/>
 
 <!-- Fallback summary card (keeps layout even if one of the above is blocked) -->
-<img src="https://streak-stats.demolab.com/?user=hrishabh1103&theme=tokyonight" alt="profile summary" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=hrishabh1103&theme=tokyonight" alt="profile summary" />
 </p>
-
 ---
 
 ## 🏆 Achievements
