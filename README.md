@@ -51,30 +51,23 @@ I'm **Hrishabh Gupta**, a Computer Science undergraduate from
 ## 📊 GitHub Stats
 
 <p align="center">
+<!-- Main stats (vercel.app is the most reliable) - cache bust param forces GitHub proxy to fetch a fresh copy -->
+<img src="https://github-readme-stats.vercel.app/api?username=hrishabh1103&show_icons=true&theme=tokyonight&cache_bust=20251212T1548" height="180" alt="github stats"/>
 
-<img 
-  src="https://github-readme-stats.vercel.app/api?username=hrishabh1103&show_icons=true&theme=tokyonight&include_all_commits=true&rank_icon=github"
-/>
+<!-- Streaks: prefer the demolab proxy; if that fails, uncomment the shields fallback below -->
+<img src="https://streak-stats.demolab.com/?user=hrishabh1103&theme=tokyonight&cache_bust=20251212T1548" height="180" alt="github streaks"/>
 
-<img 
-  src="https://github-readme-streak-stats.herokuapp.com?user=hrishabh1103&theme=tokyonight"
-/>
-
+<!-- Fallback summary card (keeps layout even if one of the above is blocked) -->
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=hrishabh1103&theme=tokyonight" alt="profile summary" />
 </p>
 
-<p align="center">
-<img 
-  src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=hrishabh1103&theme=tokyonight"
-/>
-</p>
 ---
 
 ## 🏆 Achievements
 
 <p align="center">
-<img 
-  src="https://github-profile-trophy.vercel.app/?username=hrishabh1103&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10"
-/>
+<!-- Trophy image with explicit theme + cache bust so GitHub pulls a fresh copy -->
+<img src="https://github-profile-trophy.vercel.app/?username=hrishabh1103&theme=tokyonight&no-frame=true&cache_bust=20251212T1548" alt="github trophies" />
 </p>
 ---
 
