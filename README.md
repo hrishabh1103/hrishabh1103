@@ -58,7 +58,7 @@ I'm **Hrishabh Gupta**, a Computer Science undergraduate from
 <img src="https://streak-stats.demolab.com/?user=hrishabh1103&theme=tokyonight" height="180" alt="github streaks"/>
 
 <!-- Fallback summary card (keeps layout even if one of the above is blocked) -->
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=hrishabh1103&theme=tokyonight" alt="profile summary" />
+<img src="https://streak-stats.demolab.com/?user=hrishabh1103&theme=tokyonight" alt="profile summary" />
 </p>
 
 ---
