@@ -1,3 +1,4 @@
+
 <div align="center">
 
 <h1>✨ Hrishabh Gupta ✨</h1> 
@@ -23,17 +24,17 @@
 ## 🚀 About Me
 
 I'm **Hrishabh Gupta**, a Computer Science undergraduate from  
-🏫 *School of Information Technology, RGPV University, Bhopal.*
+🏫 *School of Information Technology, University of Technology, Bhopal.*
 
 💡 Passionate about **Full Stack Development, AI, and Sustainability Tech**  
 🌱 Solving real problems in **agritech, automation, and clean technology.**
 
 ### 🔧 Currently Building
-- 🌾 **Kisan Mitra App** – Stubble burning mitigation  
-- 💳 **SavingsKaro** – Smart credit-card offers platform  
-- 🤖 **Genius AI Summarizer** – AI Chrome extension  
-- 🏍️ **Bike Store App** – Inventory + billing system  
-- 👁️ **Face Detection System** – CCTV-based tracking using ML  
+- 🌾 **Kisan Mitra App** – Stubble burning mitigation
+- 💳 **SavingsKaro** – Smart credit-card offers platform
+- 🤖 **Genius AI Summarizer** – AI Chrome extension
+- 🏍️ **Bike Store App** – Inventory + billing system
+- 👁️ **Face Detection System** – Tracking using ML
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2"/>
 
@@ -50,32 +51,20 @@ I'm **Hrishabh Gupta**, a Computer Science undergraduate from
 ## 📊 GitHub Stats
 
 <p align="center">
-  <!-- Main Stats -->
-  <img 
-    src="https://github-readme-stats-git-masterorg.vercel.app/api?username=hrishabh1103&show_icons=true&theme=tokyonight" 
-    height="180"
-  />
-  
-  <!-- Streak Stats -->
-  <img 
-    src="https://github-readme-streak-stats.herokuapp.com/?user=hrishabh1103&theme=tokyonight" 
-    height="180"
-  />
+<img src="https://github-readme-stats.vercel.app/api?username=hrishabh1103&show_icons=true&theme=tokyonight" height="180"/>
+<img src="https://streak-stats.demolab.com/?user=hrishabh1103&theme=tokyonight" height="180"/>
 </p>
 
-<!-- Summary Card -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/vn7n24fzkq/github-profile-summary-cards/master/cards/profile-details.svg?username=hrishabh1103&theme=tokyonight"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=hrishabh1103&theme=tokyonight" />
 </p>
-
 ---
 
 ## 🏆 Achievements
 
 <p align="center">
-  <img src="https://github-profile-trophy-git-master.rtxp.vercel.app/?username=hrishabh1103&theme=darkhub&no-frame=true&column=6" />
+<img src="https://github-profile-trophy.vercel.app/?username=hrishabh1103&theme=darkhub&no-frame=true&column=6" />
 </p>
-
 ---
 
 ## 🌍 Flagship Projects
@@ -92,11 +81,11 @@ I'm **Hrishabh Gupta**, a Computer Science undergraduate from
 
 ## 🎯 Goals
 
-- ✔ High-impact engineer  
-- ✔ Build startups  
-- ✔ Master DSA & DevOps  
-- ✔ Enter top companies  
-- ✔ Design scalable systems  
+✅ High-impact engineer  
+✅ Build startups  
+✅ Master DSA & DevOps  
+✅ Enter top companies  
+✅ Design scalable systems  
 
 ---
 
@@ -119,23 +108,23 @@ I'm **Hrishabh Gupta**, a Computer Science undergraduate from
 ## 🐍 Contribution Animation
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/hrishabh1103/hrishabh1103/output/github-contribution-grid-snake.svg"/>
+<img src="https://raw.githubusercontent.com/hrishabh1103/hrishabh1103/main/dist/github-contribution-grid-snake.svg"/>
 </p>
 
 ---
 
 ## ⚡ Fun Facts
 
-- 🚀 I build for **impact**  
-- 🎯 Startup mindset  
-- 🎨 UI perfectionist  
-- 📚 Always learning  
+• 🚀 I build for **impact**  
+• 🎯 Startup mindset  
+• 🎨 UI perfectionist  
+• 📚 Always learning  
 
 ---
 
 <div align="center">
 
-🌟 *If you like my profile — follow me & let's grow together!*  
+🌟 *If you like my profile — follow me & let's grow together!*
 
 <br>
 
