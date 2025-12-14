@@ -1,4 +1,3 @@
-
 <div align="center">
 
 <h1>✨ Hrishabh Gupta ✨</h1> 
@@ -7,19 +6,19 @@
 
 <br><br>
 
-<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="420"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="420"/>
 
 <br><br>
 
 🌍 Turning Ideas into Impact &nbsp;•&nbsp; 🌾 Tech for Humanity &nbsp;•&nbsp; 🤖 AI Explorer
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=3"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=3&width=100%"/>
 
 </div>
 
 ---
 
-<img align="right" width="260" src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif"/>
+<img align="right" width="260" src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg"/>
 
 ## 🚀 About Me
 
@@ -36,7 +35,7 @@ I'm **Hrishabh Gupta**, a Computer Science undergraduate from
 - 🏍️ **Bike Store App** – Inventory + billing system
 - 👁️ **Face Detection System** – Tracking using ML
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2&width=100%"/>
 
 ---
 
@@ -45,92 +44,3 @@ I'm **Hrishabh Gupta**, a Computer Science undergraduate from
 <p align="center">
 <img src="https://skillicons.dev/icons?i=cpp,java,python,js,react,nextjs,nodejs,spring,html,css,tailwind,mysql,postgres,git,linux&theme=dark&perline=7" />
 </p>
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-<!-- Main stats (vercel.app is the most reliable) - cache bust param forces GitHub proxy to fetch a fresh copy -->
-<img src="https://github-readme-stats.vercel.app/api?username=hrishabh1103&show_icons=true&theme=tokyonight&cache_bust=20251212T1548" height="180" alt="github stats"/>
-
-<!-- Streaks: prefer the demolab proxy; if that fails, uncomment the shields fallback below -->
-<img src="https://streak-stats.demolab.com/?user=hrishabh1103&theme=tokyonight&cache_bust=20251212T1548" height="180" alt="github streaks"/>
-
-<!-- Fallback summary card (keeps layout even if one of the above is blocked) -->
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=hrishabh1103&theme=tokyonight" alt="profile summary" />
-</p>
----
-
-## 🏆 Achievements
-
-<p align="center">
-<!-- Trophy image with explicit theme + cache bust so GitHub pulls a fresh copy -->
-<img src="https://github-profile-trophy.vercel.app/?username=hrishabh1103&theme=tokyonight&no-frame=true&cache_bust=20251212T1548" alt="github trophies" />
-</p>
----
-
-## 🌍 Flagship Projects
-
-| Project | Description | Tech |
-|---------|-------------|------|
-| 🌱 **Kisan Mitra** | Stubble burning solution | Next.js, Prisma |
-| 💳 **SavingsKaro** | Smart offers engine | Web Tech |
-| 🤖 **AI Summarizer** | Chrome Extension | JS, NLP |
-| 🏍️ **Bike Store** | Order & stock manager | Spring Boot |
-| 👁️ **Face System** | Smart tracking | Python, OpenCV |
-
----
-
-## 🎯 Goals
-
-✅ High-impact engineer  
-✅ Build startups  
-✅ Master DSA & DevOps  
-✅ Enter top companies  
-✅ Design scalable systems  
-
----
-
-## 🤝 Connect With Me
-
-<p align="center">
-<a href="https://www.linkedin.com/in/hrishabh1103/">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
-</a>
-<a href="mailto:hrishabhgupta@zohomail.in">
-<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail"/>
-</a>
-<a href="https://github.com/hrishabh1103">
-<img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github"/>
-</a>
-</p>
-
----
-
-## 🐍 Contribution Animation
-
-<p align="center">
-<img src="https://raw.githubusercontent.com/hrishabh1103/hrishabh1103/main/dist/github-contribution-grid-snake.svg"/>
-</p>
-
----
-
-## ⚡ Fun Facts
-
-• 🚀 I build for **impact**  
-• 🎯 Startup mindset  
-• 🎨 UI perfectionist  
-• 📚 Always learning  
-
----
-
-<div align="center">
-
-🌟 *If you like my profile — follow me & let's grow together!*
-
-<br>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120"/>
-
-</div>
