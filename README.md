@@ -1,3 +1,4 @@
+
 <div align="center">
 
 <h1>✨ Hrishabh Gupta ✨</h1> 
@@ -6,19 +7,19 @@
 
 <br><br>
 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="420"/>
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="420"/>
 
 <br><br>
 
 🌍 Turning Ideas into Impact &nbsp;•&nbsp; 🌾 Tech for Humanity &nbsp;•&nbsp; 🤖 AI Explorer
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=3&width=100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=3"/>
 
 </div>
 
 ---
 
-<img align="right" width="260" src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg"/>
+<img align="right" width="260" src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif"/>
 
 ## 🚀 About Me
 
@@ -35,7 +36,7 @@ I'm **Hrishabh Gupta**, a Computer Science undergraduate from
 - 🏍️ **Bike Store App** – Inventory + billing system
 - 👁️ **Face Detection System** – Tracking using ML
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2&width=100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2"/>
 
 ---
 
@@ -43,4 +44,3 @@ I'm **Hrishabh Gupta**, a Computer Science undergraduate from
 
 <p align="center">
 <img src="https://skillicons.dev/icons?i=cpp,java,python,js,react,nextjs,nodejs,spring,html,css,tailwind,mysql,postgres,git,linux&theme=dark&perline=7" />
-</p>
