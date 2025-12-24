@@ -130,5 +130,5 @@ I'm **Hrishabh Gupta**, a Computer Science undergraduate from
 <br>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120"/>
-
+ 
 </div>
