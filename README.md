@@ -1,8 +1,8 @@
-<div align="center">  
+<div align="center">
 
-<h1>✨ Hrishabh Gupta ✨</h1> 
+<h1>🌟 Hrishabh Gupta 🌟</h1>
 
-<img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=24&pause=800&color=36BCF7&center=true&vCenter=true&width=700&lines=Software+Engineer;Full+Stack+Developer;AI+Enthusiast;Sustainability+Tech+Builder" />
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=26&pause=700&color=36BCF7&center=true&vCenter=true&width=800&lines=Software+Engineer;Full+Stack+Developer;AI+%26+ML+Enthusiast;Building+Tech+for+Impact" />
 
 <br><br>
 
@@ -10,7 +10,8 @@
 
 <br><br>
 
-🌍 Turning Ideas into Impact &nbsp;•&nbsp; 🌾 Tech for Humanity &nbsp;•&nbsp; 🤖 AI Explorer
+🌍 **Turning Ideas into Impact**  
+🌾 **Tech for Humanity** &nbsp;•&nbsp; 🤖 **AI Explorer**
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=3"/>
 
@@ -22,18 +23,21 @@
 
 ## 🚀 About Me
 
-I'm **Hrishabh Gupta**, a Computer Science undergraduate from  
+Hi 👋 I’m **Hrishabh Gupta**, a Computer Science undergraduate from  
 🏫 *School of Information Technology, University of Technology, Bhopal.*
 
-💡 Passionate about **Full Stack Development, AI, and Sustainability Tech**  
-🌱 Solving real problems in **agritech, automation, and clean technology.**
+💡 Passionate about **Full Stack Development, AI/ML, and Sustainability Tech**  
+🌱 I love solving **real-world problems** in *agritech, automation, and clean technology*.
+
+---
 
 ### 🔧 Currently Building
-- 🌾 **Kisan Mitra App** – Stubble burning mitigation
-- 💳 **SavingsKaro** – Smart credit-card offers platform
-- 🤖 **Genius AI Summarizer** – AI Chrome extension
-- 🏍️ **Bike Store App** – Inventory + billing system
-- 👁️ **Face Detection System** – Tracking using ML
+
+- 🌾 **Kisan Mitra App** – AI-powered stubble burning mitigation  
+- 💳 **SavingsKaro** – Smart credit-card offers & fintech platform  
+- 🤖 **Genius AI Summarizer** – AI Chrome extension  
+- 🏍️ **Bike Store App** – Inventory & billing system  
+- 👁️ **Face Detection System** – ML-based tracking solution  
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2"/>
 
@@ -47,11 +51,11 @@ I'm **Hrishabh Gupta**, a Computer Science undergraduate from
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Performance
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=hrishabh1103&show_icons=true&theme=tokyonight&cache_seconds=86400" height="180"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=hrishabh1103&theme=tokyonight&cache_seconds=86400" height="180"/>
+<img src="https://github-readme-stats.vercel.app/api?username=hrishabh1103&show_icons=true&theme=tokyonight&hide_border=true" height="180"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=hrishabh1103&theme=tokyonight&hide_border=true" height="180"/>
 </p>
 
 <p align="center">
@@ -60,7 +64,7 @@ I'm **Hrishabh Gupta**, a Computer Science undergraduate from
 
 ---
 
-## 🏆 Achievements
+## 🏆 Achievements & Highlights
 
 <p align="center">
 <img src="https://github-profile-trophy.vercel.app/?username=hrishabh1103&theme=darkhub&no-frame=true&column=6" />
@@ -70,31 +74,31 @@ I'm **Hrishabh Gupta**, a Computer Science undergraduate from
 
 ## 🌍 Flagship Projects
 
-| Project | Description | Tech |
-|---------|-------------|------|
-| 🌱 **Kisan Mitra** | Stubble burning solution | Next.js, Prisma |
-| 💳 **SavingsKaro** | Smart offers engine | Web Tech |
-| 🤖 **AI Summarizer** | Chrome Extension | JS, NLP |
-| 🏍️ **Bike Store** | Order & stock manager | Spring Boot |
-| 👁️ **Face System** | Smart tracking | Python, OpenCV |
+| 🚀 Project | 💡 Description | 🛠 Tech |
+|-----------|---------------|--------|
+| 🌱 **Kisan Mitra** | Stubble burning mitigation | Next.js, Prisma |
+| 💳 **SavingsKaro** | Smart fintech offers engine | Web Tech |
+| 🤖 **AI Summarizer** | Chrome Extension | JavaScript, NLP |
+| 🏍️ **Bike Store** | Order & stock management | Spring Boot |
+| 👁️ **Face System** | Smart tracking solution | Python, OpenCV |
 
 ---
 
-## 🎯 Goals
+## 🎯 Career Goals
 
-✅ High-impact engineer  
-✅ Build startups  
+✅ Build high-impact products  
+✅ Launch scalable startups  
 ✅ Master DSA & DevOps  
-✅ Enter top companies  
-✅ Design scalable systems  
+✅ Work with top tech companies  
+✅ Design large-scale systems  
 
 ---
 
-## 🤝 Connect With Me
+## 🤝 Let’s Connect
 
 <p align="center">
 <a href="https://www.linkedin.com/in/hrishabh1103/">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin"/>
 </a>
 <a href="mailto:hrishabhgupta@zohomail.in">
 <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail"/>
@@ -106,7 +110,7 @@ I'm **Hrishabh Gupta**, a Computer Science undergraduate from
 
 ---
 
-## 🐍 Contribution Animation
+## 🐍 Contribution Activity
 
 <p align="center">
 <img src="https://raw.githubusercontent.com/hrishabh1103/hrishabh1103/main/dist/github-contribution-grid-snake.svg"/>
@@ -116,19 +120,19 @@ I'm **Hrishabh Gupta**, a Computer Science undergraduate from
 
 ## ⚡ Fun Facts
 
-• 🚀 I build for **impact**  
-• 🎯 Startup mindset  
-• 🎨 UI perfectionist  
-• 📚 Always learning  
+• 🚀 Builder mindset  
+• 🎯 Startup-driven  
+• 🎨 UI/UX perfectionist  
+• 📚 Lifelong learner  
 
 ---
 
 <div align="center">
 
-🌟 *If you like my profile — follow me & let's grow together!*
+✨ *If you like my work, consider following — let’s build something impactful together!* ✨
 
 <br>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120"/>
- 
+
 </div>
