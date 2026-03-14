@@ -115,11 +115,11 @@ Hi 👋 I’m **Hrishabh Gupta**, a Computer Science undergraduate from
 
 ## 🐍 Contribution Activity
 
-<p align="center">
+<!-- <p align="center">
 <img src="https://raw.githubusercontent.com/hrishabh1103/hrishabh1103/main/dist/github-contribution-grid-snake.svg"/>
 </p>
 
----
+--- -->
 
 ## ⚡ Fun Facts
 
