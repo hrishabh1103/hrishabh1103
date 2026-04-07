@@ -11,7 +11,7 @@
 <br><br>
 
 🌍 **Turning Ideas into Impact**  
-🌾 **Tech for Humanity** &nbsp;•&nbsp; 🤖 **AI Explorer**
+🌾 **Tech for Humanity** • 🤖 **AI Explorer**
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=3"/>
 
@@ -54,15 +54,10 @@ Hi 👋 I’m **Hrishabh Gupta**, a Computer Science undergraduate from
 ## 📊 GitHub Performance
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=hrishabh1103&show_icons=true&theme=tokyonight&hide_border=false&count_private=true&include_all_commits=true" height="170"/>
+<img src="https://github-readme-stats.vercel.app/api?username=hrishabh1103&show_icons=true&theme=tokyonight&hide_border=false" height="170"/>
 
 <img src="https://github-readme-streak-stats.herokuapp.com?user=hrishabh1103&theme=tokyonight&hide_border=false" height="170"/>
 </p>
-
-<p align="center">
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=hrishabh1103&theme=tokyonight" />
-</p>
-
 
 ---
 
@@ -71,7 +66,6 @@ Hi 👋 I’m **Hrishabh Gupta**, a Computer Science undergraduate from
 <p align="center">
 <img src="https://github-profile-trophy.vercel.app/?username=hrishabh1103&theme=onedark&row=2&column=4&margin-w=15&margin-h=15" />
 </p>
-
 
 ---
 
@@ -112,14 +106,6 @@ Hi 👋 I’m **Hrishabh Gupta**, a Computer Science undergraduate from
 </p>
 
 ---
-
-## 🐍 Contribution Activity
-
-//<!-- <p align="center">
-<img src="https://raw.githubusercontent.com/hrishabh1103/hrishabh1103/main/dist/github-contribution-grid-snake.svg"/>
-</p>
-
---- -->
 
 ## ⚡ Fun Facts
 
