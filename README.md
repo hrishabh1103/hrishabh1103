@@ -89,6 +89,10 @@ Hi 👋 I’m **Hrishabh Gupta**, a Computer Science undergraduate from
 ✅ Work with top tech companies  
 ✅ Design large-scale systems  
 
+
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
 ---
 
 ## 🤝 Let’s Connect
