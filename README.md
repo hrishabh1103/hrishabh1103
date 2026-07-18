@@ -61,11 +61,13 @@ Hi 👋 I’m **Hrishabh Gupta**, a Computer Science undergraduate from
 
 ---
 
-## 🏆 Achievements & Highlights
+# 📊 GitHub Stats:
+![](https://github-readme-stats.shion.dev/api?username=hrishabh1103&theme=highcontrast&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://streak-stats.demolab.com/?user=hrishabh1103&theme=highcontrast&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=hrishabh1103&theme=highcontrast&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=hrishabh1103&theme=onedark&row=2&column=4&margin-w=15&margin-h=15" />
-</p>
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=hrishabh1103&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 ---
 
