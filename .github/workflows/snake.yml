@@ -1,30 +1,39 @@
-name: Generate Snake
+name: Generate Contribution Snake
 
 on:
   schedule:
     - cron: "0 */12 * * *"
+
   workflow_dispatch:
+
+  push:
+    branches:
+      - main
 
 permissions:
   contents: write
 
 jobs:
-  snake:
+  generate:
     runs-on: ubuntu-latest
+    timeout-minutes: 5
 
     steps:
-      - name: Checkout the repo
-        uses: actions/checkout@v3
+      - name: Checkout repository
+        uses: actions/checkout@v4
 
-      - name: Generate the snake SVG
-        uses: Platane/snk@v3
+      - name: Generate contribution snakes
+        uses: Platane/snk/svg-only@v3
         with:
           github_user_name: hrishabh1103
-          outputs: |
-            dist/github-contribution-grid-snake.svg
 
-      - name: Commit & Push the file
+          outputs: |
+            dist/github-contribution-grid-snake.svg?color_snake=%2310B981&color_dots=%23E8EDF7,%23DDD6FE,%23C4B5FD,%23A78BFA,%237C3AED
+            dist/github-contribution-grid-snake-dark.svg?color_snake=%2322D3EE&color_dots=%232d3343,%23164E63,%230E7490,%230891B2,%2322D3EE
+
+      - name: Commit updated snake files
         uses: EndBug/add-and-commit@v9
         with:
-          message: "Update snake animation"
+          message: "chore: update contribution snake"
           add: "dist/*.svg"
+          default_author: github_actions
