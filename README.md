@@ -1,133 +1,107 @@
-<div align="center">
-
-<h1>🌟 Hrishabh Gupta 🌟</h1>
-
-<img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=26&pause=700&color=36BCF7&center=true&vCenter=true&width=800&lines=Software+Engineer;Full+Stack+Developer;AI+%26+ML+Enthusiast;Building+Tech+for+Impact" />
-
-<br><br>
-
-<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="420"/>
-
-<br><br>
-
-🌍 **Turning Ideas into Impact**  
-🌾 **Tech for Humanity** • 🤖 **AI Explorer**
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=3"/>
-
-</div>
-
----
-
-<img align="right" width="260" src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif"/>
-
-## 🚀 About Me
-
-Hi 👋 I’m **Hrishabh Gupta**, a Computer Science undergraduate from  
-🏫 *School of Information Technology, University of Technology, Bhopal.*
-
-💡 Passionate about **Full Stack Development, AI/ML, and Sustainability Tech**  
-🌱 I love solving **real-world problems** in *agritech, automation, and clean technology*.
-
----
-
-### 🔧 Currently Building
-
-- 🌾 **Kisan Mitra App** – AI-powered stubble burning mitigation  
-- 💳 **SavingsKaro** – Smart credit-card offers & fintech platform  
-- 🤖 **Genius AI Summarizer** – AI Chrome extension  
-- 🏍️ **Bike Store App** – Inventory & billing system  
-- 👁️ **Face Detection System** – ML-based tracking solution  
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2"/>
-
----
-
-## 🛠️ Tech Stack
-
-<p align="center">
-<img src="https://skillicons.dev/icons?i=cpp,java,python,js,react,nextjs,nodejs,spring,html,css,tailwind,mysql,postgres,git,linux&theme=dark&perline=7" />
-</p>
-
----
-
-## 📊 GitHub Performance
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=hrishabh1103&show_icons=true&theme=tokyonight&hide_border=false" height="170"/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com?user=hrishabh1103&theme=tokyonight&hide_border=false" height="170"/>
-</p>
-
----
-
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=hrishabh1103&theme=highcontrast&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://streak-stats.demolab.com/?user=hrishabh1103&theme=highcontrast&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=hrishabh1103&theme=highcontrast&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=hrishabh1103&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-
----
-
-## 🌍 Flagship Projects
-
-| 🚀 Project | 💡 Description | 🛠 Tech |
-|-----------|---------------|--------|
-| 🌱 **Kisan Mitra** | Stubble burning mitigation | Next.js, Prisma |
-| 💳 **SavingsKaro** | Smart fintech offers engine | Web Tech |
-| 🤖 **AI Summarizer** | Chrome Extension | JavaScript, NLP |
-| 🏍️ **Bike Store** | Order & stock management | Spring Boot |
-| 👁️ **Face System** | Smart tracking solution | Python, OpenCV |
-
----
-
-## 🎯 Career Goals
-
-✅ Build high-impact products  
-✅ Launch scalable startups  
-✅ Master DSA & DevOps  
-✅ Work with top tech companies  
-✅ Design large-scale systems  
+<!-- =========================================================
+     HRISHABH GUPTA — GITHUB PROFILE
+     Security Research • Post-Quantum Cryptography
+========================================================= -->
 
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+<!-- ==================== BANNER ==================== -->
 
----
-
-## 🤝 Let’s Connect
-
-<p align="center">
-<a href="https://www.linkedin.com/in/hrishabh1103/">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin"/>
-</a>
-<a href="mailto:hrishabhgupta@zohomail.in">
-<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail"/>
-</a>
-<a href="https://github.com/hrishabh1103">
-<img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github"/>
-</a>
-</p>
-
----
-
-## ⚡ Fun Facts
-
-• 🚀 Builder mindset  
-• 🎯 Startup-driven  
-• 🎨 UI/UX perfectionist  
-• 📚 Lifelong learner  
-
----
-
-<div align="center">
-
-✨ *If you like my work, consider following — let’s build something impactful together!* ✨
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="./banner/dark.svg"
+  />
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="./banner/light.svg"
+  />
+  <img
+    src="./banner/dark.svg"
+    width="100%"
+    alt="Hrishabh Gupta — Security Researcher"
+  />
+</picture>
 
 <br>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120"/>
+
+<!-- ==================== INTRO ==================== -->
+
+<div align="center">
+
+# Hrishabh Gupta
+
+### Security Researcher · Post-Quantum Cryptography
+
+**Building & Researching Quantum Migration Platforms**
+
+📍 Indore, Madhya Pradesh  
+🎓 M.Tech Software Systems · BITS Pilani
 
 </div>
+
+<br>
+
+---
+
+<!-- ==================== ABOUT ==================== -->
+
+## `> whoami`
+
+I work at the intersection of **Cybersecurity, Post-Quantum Cryptography,
+Software Engineering, and AI**, with a current focus on preparing systems
+for the transition from classical public-key cryptography to
+**quantum-resistant infrastructure**.
+
+My current work explores cryptographic discovery, migration planning,
+crypto-agility, hybrid TLS, and practical adoption of post-quantum
+cryptographic standards.
+
+```text
+research.focus  = Post-Quantum Cryptography
+current.mission = Quantum-Safe Migration
+interests       = Security · Cryptography · AI · Infrastructure
+status          = Building & Researching Quantum Migration Platforms
+
+<!-- ==================== TECH ==================== -->
+> technology --stack
+<div align="center"> <img src="https://skillicons.dev/icons?i=python,java,cpp,js,react,nodejs,flask,mysql,mongodb,supabase,docker,kubernetes,aws,gcp,git,linux,vscode&theme=dark&perline=9" /> </div> <br>
+
+Languages: Python · Java · C++ · JavaScript
+Frontend: React · Vite
+Backend: Flask · FastAPI · Node.js
+Database: MySQL · MongoDB · Supabase
+Infrastructure: Docker · Kubernetes · AWS · Google Cloud
+Tools: VS Code · Git · Linux · Android Studio · Figma
+
+<!-- ==================== RESEARCH ==================== -->
+> research --active
+[PQC]       Post-Quantum Cryptography
+[MIGRATE]   Cryptographic Discovery & Migration
+[TLS]       Hybrid / Quantum-Safe TLS
+[AGILITY]   Crypto-Agile Infrastructure
+[SECURITY]  Security Engineering
+[AI]        AI-assisted Security Automation
+<!-- ==================== GITHUB STATS ==================== -->
+> github --stats
+<p align="center">
+
+<img width="100%" src="https://streak-stats.demolab.com?user=hrishabh1103&theme=transparent&hide_border=true&background=0A101F&ring=A78BFA&fire=10B981&currStreakLabel=22D3EE&sideLabels=A78BFA&currStreakNum=E8EDF7&sideNums=E8EDF7&dates=93A4BD" alt="Hrishabh Gupta GitHub Streak" />
+
+</p> <p align="center">
+
+<img width="49%" src="https://github-readme-stats-hris.vercel.app/api?username=hrishabh1103&show_icons=true&include_all_commits=true&hide_rank=true&bg_color=0A101F&title_color=A78BFA&text_color=E8EDF7&icon_color=22D3EE&border_color=22D3EE" alt="Hrishabh Gupta GitHub Statistics" />
+
+<img width="49%" src="https://github-readme-stats-hris.vercel.app/api/top-langs/?username=hrishabh1103&layout=compact&langs_count=8&bg_color=0A101F&title_color=A78BFA&text_color=E8EDF7&border_color=22D3EE" alt="Hrishabh Gupta Most Used Languages" />
+
+</p> <!-- ==================== SNAKE ==================== --> <!-- Phase 3 contribution snake goes here after the output branch has been generated successfully. --> <!-- ==================== CONNECT ==================== -->
+> network --connect
+<div align="center"> <a href="https://www.linkedin.com/in/hrishabh1103/"> <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /> </a>&nbsp;&nbsp; <a href="mailto:hrishabh1104@gmail.com"> <img src="https://img.shields.io/badge/Email-0A101F?style=for-the-badge&logo=gmail&logoColor=white" /> </a>&nbsp;&nbsp; <a href="https://hrishabhgupt.vercel.app/"> <img src="https://img.shields.io/badge/Portfolio-0A101F?style=for-the-badge&logo=vercel&logoColor=white" /> </a> </div> <br> <div align="center">
+
+SECURITY · CRYPTOGRAPHY · PQC · AI · INFRASTRUCTURE
+
+<br><br>
+
+Preparing today's systems for tomorrow's cryptographic threats.
+
+</div> ```
